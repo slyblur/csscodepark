@@ -1,0 +1,33 @@
+* .top {
+    padding-top: 25px;
+    color: rgb(99, 187, 77);
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    background: #62cc47b9;
+    text-align: center;    
+}
+
+p {
+    color: aliceblue;
+}
+
+.principal {
+    padding-top: 2px;
+    padding-bottom: 30px;
+    background: rgb(33, 101, 100);
+    text-align: center;
+}
+
+#teste {
+    border-radius: 30px;
+}
+
+.rodape {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background:#62cc47b9;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+  }
